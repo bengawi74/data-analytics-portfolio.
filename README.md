@@ -42,6 +42,7 @@ data-analytics-portfolio/
 └── README.md
 
 Projects Included
+
 1. Data Extraction and Cleaning
 Notebook: week2_data_extraction.ipynb
 This notebook shows how I loaded data from different sources, cleaned missing values, corrected formatting issues, and prepared the dataset for analysis.
@@ -53,11 +54,13 @@ This notebook explores the cleaned dataset to understand its structure and ident
 It includes descriptive statistics and visualizations that help explain trends and relationships.
 
 Reflection
+
 Completing these exercises helped me build confidence with core data tools. I learned the value of careful preparation, clear documentation, and thinking through what the numbers are saying.
 My background in finance — where accuracy and consistency matter — supported my approach to analytical work.
 These projects marked the beginning of my journey into applied AI and prepared me for deeper machine learning and full-stack systems.
 
 Contact
+
 Email: anwar.bengawi74@gmail.com
 LinkedIn: https://linkedin.com/in/anwar-ali-07484083
 GitHub: https://github.com/bengawi74
