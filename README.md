@@ -28,6 +28,7 @@ These early projects helped prepare me for more advanced work in applied AI and 
 
 Folder Structure
 data-analytics-portfolio/
+
 │
 ├── notebooks/
 │   ├── week2_data_extraction.ipynb
@@ -40,6 +41,7 @@ data-analytics-portfolio/
 │   (optional – for charts or screenshots)
 │
 └── README.md
+
 
 Projects Included
 
