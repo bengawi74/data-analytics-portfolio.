@@ -1,65 +1,64 @@
-# Data Analytics Portfolio
+Data Analytics Portfolio
+This portfolio brings together early analytics work completed during my transition from a long finance career into applied data and AI. The projects show how I work with real datasets, prepare them for analysis, and explain insights in a clear and simple way.
+These foundations supported my move into deeper work in computer vision, sentiment systems, and full-stack AI.
 
-This portfolio includes a collection of early analytics work completed during my transition from a long career in finance into applied data and AI. These projects show how I work with real datasets, prepare them for analysis, and communicate insights in a clear and simple way.  
-They helped form the base for more advanced work with computer vision, natural language processing, and full-stack data systems.
+Table of Contents
+About This Portfolio
+Skills at a Glance
+Folder Structure
+Projects Included
+Reflection
+Contact
 
-## About This Portfolio
+Skills at a Glance
+<a><img src="https://img.shields.io/badge/Python-Programming-blue?logo=python"/></a>
+<a><img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas"/></a>
+<a><img src="https://img.shields.io/badge/Jupyter-Notebooks-red?logo=jupyter"/></a>
+<a><img src="https://img.shields.io/badge/Matplotlib-Visualization-green"/></a>
 
-The purpose of this portfolio is to demonstrate practical skills in:
+About This Portfolio
+This portfolio demonstrates hands-on experience with:
+extracting data from common file formats
+cleaning and preparing datasets
+exploring and visualizing data
+documenting analytical steps clearly
+All work is done using Python, Pandas, Matplotlib, and Jupyter Notebook.
+Coming from a finance background, I approached these tasks the same way I approached financial reporting: start with raw information, clean it carefully, organize it well, and explain the results in a straightforward way.
+These early projects helped prepare me for more advanced work in applied AI and full-stack systems.
 
-- Data extraction  
-- Data cleaning and preparation  
-- Exploratory data analysis  
-- Introductory machine learning  
+Folder Structure
+data-analytics-portfolio/
+│
+├── notebooks/
+│   ├── week2_data_extraction.ipynb
+│   └── week3_eda.ipynb
+│
+├── data/
+│   (empty – ready for sample files)
+│
+├── images/
+│   (optional – for charts or screenshots)
+│
+└── README.md
 
-Most of the work here is done in Python using Pandas, Matplotlib, and Jupyter Notebook.  
-Coming from a finance background, I approached these projects the same way I approached financial reports: start with raw information, organize it, make it clean and reliable, study it carefully, and explain what it means.
+Projects Included
+1. Data Extraction and Cleaning
+Notebook: week2_data_extraction.ipynb
+This notebook shows how I loaded data from different sources, cleaned missing values, corrected formatting issues, and prepared the dataset for analysis.
+It reflects the importance of starting with a clean and consistent foundation.
 
-This work represents my first step toward more technical roles and prepares me for full-stack AI studies.
+2. Exploratory Data Analysis (EDA)
+Notebook: week3_eda.ipynb
+This notebook explores the cleaned dataset to understand its structure and identify useful patterns.
+It includes descriptive statistics and visualizations that help explain trends and relationships.
 
-## Project Structure
+Reflection
+Completing these exercises helped me build confidence with core data tools. I learned the value of careful preparation, clear documentation, and thinking through what the numbers are saying.
+My background in finance — where accuracy and consistency matter — supported my approach to analytical work.
+These projects marked the beginning of my journey into applied AI and prepared me for deeper machine learning and full-stack systems.
 
-This portfolio contains three main projects, each focusing on a different part of the analytics process.
-
-### 1. Data Extraction & Cleaning  
-Notebook: `02_data_extraction.ipynb`
-
-This project shows how to load and combine information from CSV and JSON files.  
-It includes practical cleaning steps such as handling missing values, correcting column formats, and preparing the data for analysis.
-
-### 2. Exploratory Data Analysis (EDA)  
-Notebook: `03_eda.ipynb`
-
-This notebook explores the cleaned dataset to understand its structure and identify meaningful patterns.  
-It includes descriptive statistics and visualizations that help explain the relationships within the data.
-
-### 3. Introductory Machine Learning  
-Notebook: `Titanic_Logistic_Regression.ipynb`
-
-This project applies a basic logistic regression model to the Titanic dataset.  
-It includes model training, evaluation using common metrics, and a short interpretation of the results.
-
-These early projects supported later work with YOLOv5 object detection, EfficientNet fabric classification, and a full-stack sentiment analysis system.
-
-## Skills Demonstrated
-
-- Python programming  
-- Data extraction from CSV and JSON  
-- Data cleaning and preparation  
-- Exploratory data analysis  
-- Simple data visualizations  
-- Basic machine learning techniques  
-- Organized project structure on GitHub  
-
-These skills connect directly to the requirements of modern analytics work.
-
-## Reflection
-
-These projects helped me build confidence with core data tools. I learned how important it is to clean data properly, document each step, and understand the story behind the numbers.  
-This work also helped me see how my finance background fits naturally with analytics. The attention to detail and accuracy from my financial reporting experience supported every step in this portfolio.
-
-## Contact
-
-Email: anwar.bengawi74@gmail.com  
-LinkedIn: https://linkedin.com/in/anwar-ali-07484083  
+Contact
+Email: anwar.bengawi74@gmail.com
+LinkedIn: https://linkedin.com/in/anwar-ali-07484083
 GitHub: https://github.com/bengawi74
+
